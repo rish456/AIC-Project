@@ -1,0 +1,4 @@
+#Sun Aug 26 13:28:22 IST 2018
+base.0=/Users/AshleshaigalMac/Desktop/SUMMER Project/Andriod Projects/AndroidGridLayout-master/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
